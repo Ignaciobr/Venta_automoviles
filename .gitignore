@@ -1,0 +1,23 @@
+cat > .gitignore << EOF
+
+.idea/
+*.iml
+out/
+classes/
+
+nbproject/
+nbbuild/
+dist/
+build/
+ Maven
+target/
+
+General
+*.log
+*.tmp
+*.bak
+
+ rchivos de sistema
+.DS_Store
+Thumbs.db
+EOF
