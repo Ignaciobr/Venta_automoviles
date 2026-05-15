@@ -21,8 +21,22 @@ Aplicación de escritorio desarrollada en Java utilizando Swing, JPA y Maven.
 - Lógica
 - Persistencia
 
-## Capturas
-(imágenes del sistema)
+## Screenshots
+
+### Pantalla principal
+![Pantalla principal](screenshots/principal.png)
+
+### Carga de datos
+![Carga de datos](screenshots/alta.png)
+
+### Visualización de datos
+![Tabla](screenshots/consulta.png)
+
+### Modificacion de datos
+![Tabla](screenshots/modificacion.png)
+
+### Salida
+![Tabla](screenshots/salida.png)
 
 ## Cómo ejecutar
 1. Clonar repositorio
